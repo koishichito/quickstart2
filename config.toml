@@ -3,5 +3,6 @@ languageCode = "ja"
 title = "発禁愚"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
+theme = "ananke"
 [taxonomies]
 tag = "tags"

@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://koishichito.github.io/quickstart2/"
 languageCode = "ja"
 title = "発禁愚"
 contentDir = "post"

@@ -4,6 +4,6 @@ title = "発禁愚"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
 publishDir = "docs"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["ananke"]
 [taxonomies]
 tag = "tags"
